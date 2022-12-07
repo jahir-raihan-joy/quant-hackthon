@@ -1,7 +1,5 @@
 <h2>Quant-Hackathon</h2>
-<style>
-    h2{width:fit-content; margin:auto;}
-</style>
+
 
 # Our Solution is at solution.ipynb file. 
 
