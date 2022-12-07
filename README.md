@@ -1,5 +1,7 @@
-<h2 style="text-align:center;">quant-hackathon</h2>
-
+<h2>Quant-Hackathon</h2>
+<style>
+    h2{width:fit-content; margin:auto;}
+</style>
 
 # Our Solution is at solution.ipynb file. 
 
