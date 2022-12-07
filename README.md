@@ -1,4 +1,4 @@
-# quant-hackathon
+<h2 style="text-align:center;">quant-hackathon</h2>
 
 
 # Our Solution is at solution.ipynb file. 
